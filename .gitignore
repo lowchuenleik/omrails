@@ -16,11 +16,8 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-.DS_Store
 
 /node_modules
 /yarn-error.log
 
-#Ignore Byebug command history file.
 .byebug_history
-
